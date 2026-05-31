@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsderify",
+        "uuid": 12333100,
+        "checksum": "ha2x5"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
